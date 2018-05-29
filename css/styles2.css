@@ -1,0 +1,41 @@
+h1
+{
+  color: red;
+}
+
+ul {
+     padding: 10px;
+     font-family: arial black;
+     color: pink;
+     font-family: 'Cutive Mono', monospace;
+     font-size: 18px;
+     text-align: center;
+   }
+   li {
+     display: inline;
+     padding: 5px 10px 5px 10px;
+     background: rgba(0,0,0,0.5);
+   }
+
+h2
+{
+  color: #4FD29C;
+  font-family: 'Shrikhand', cursive;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 11px;
+  border: 2px solid;
+  border-radius: 5px;
+}
+
+h3 {
+  text-align: center;
+  margin-bottom: 40px;
+  font-family: 'Trirong', serif;
+  font-size: 28px;
+  color: #F5865F;
+
+}
+
+
+}
